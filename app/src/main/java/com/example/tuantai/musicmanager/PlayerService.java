@@ -75,7 +75,7 @@ public class PlayerService extends Service implements MediaPlayer.OnPreparedList
         } catch (IOException e) {
             e.printStackTrace();
         }
-//        updateProgressBar();
+
     }
 
     @Override
